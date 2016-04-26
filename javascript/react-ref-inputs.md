@@ -66,3 +66,4 @@ render: function() {
 ```
 [refs](https://facebook.github.io/react/docs/more-about-refs.html)  
 [forms](http://facebook.github.io/react/docs/forms.html)
+[stackoverflow](http://stackoverflow.com/questions/21029999/react-js-identifying-different-inputs-with-one-onchange-handler)
